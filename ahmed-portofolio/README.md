@@ -83,9 +83,9 @@ Here are some of the projects you’ll find showcased:
 
 ## 📬 **Contact**
 Feel free to reach out if you'd like to collaborate or learn more about my work in embedded systems and digital design:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](#)
-- **GitHub**: [Your GitHub](#)
+- **Email**: [eng.phenomena@gmail.com](mailto:eng.phenomena@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-hossam-745b1125a/](#)
+- **GitHub**: [https://github.com/Eng-Phenomena](#)
 
 ## 💡 **Future Enhancements**
 - Adding a blog section to share insights and experiences from my projects.
